@@ -37,10 +37,10 @@
             "type": "package",
             "package": {
                 "name": "WordPress/WordPress",
-                "version": "5.0.1",
+                "version": "5.0.2",
                 "dist": {
                     "type": "zip",
-                    "url": "https://wordpress.org/latest.zip"
+                    "url": "https://wordpress.org/wordpress-5.0.2.zip"
                 }
             }
         },

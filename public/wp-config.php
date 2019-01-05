@@ -109,7 +109,6 @@ if ( !empty( $_ENV['SENDGRID_API_KEY'] ) ) {
 	define( 'SENDGRID_API_KEY', $_ENV['SENDGRID_API_KEY'] );
 }
 
-
 /**
  * S3-Uploads settings
  *
